@@ -1,4 +1,4 @@
-# weechat.whois-aggregator
+# WHOIS aggregation
 Save `whois` data for an IRC user to a rolling `CSV` file using the WeeChat Python API.
 
 The script requires the `WeeChat IRC client` to be installed and running, as well as `Python` 2 or 3 with the `WeeChat Python API` installed.
