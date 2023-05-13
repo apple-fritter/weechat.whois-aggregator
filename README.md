@@ -28,8 +28,8 @@ This script could be useful for logging whois data for various IRC users over ti
 - [irccloud-to-xchat](https://github.com/apple-fritter/irccloud-to-xchat): Convert IRC logs from the IRCcloud format to the XChat format. Rust.
 
 #### X-Chat
-- [doppelganger](https://github.com/apple-fritter/doppelganger): Masquerade X-Chat client as an out-of-the-box mIRC client. Python.
-- [xchat.channel-moderation](https://github.com/apple-fritter/xchat.channel-moderation) Moderate an IRC channel. Python.
+- [xchat.channel-moderation](https://github.com/apple-fritter/xchat.channel-moderation): Moderate an IRC channel. Python.
+- [doppelganger](https://github.com/apple-fritter/doppelganger): X-Chat mIRC imposter. Fingerprint subversion. Python bundle.
 
 #### IRC General
 
