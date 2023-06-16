@@ -15,12 +15,15 @@ To use the script, you can type `/whois_to_csv <nick>` in a WeeChat buffer to sa
 ## Potential uses
 This script could be useful for logging whois data for various IRC users over time. For example, a user may want to keep track of changes in the host, real name, or username of specific users on a particular IRC network. By running this script regularly, they can store this information in a CSV file that can be easily parsed and analyzed later. Additionally, this script could be useful for moderators or administrators of IRC channels who want to keep track of changes in user information for security or administrative purposes.
 
+---
+
 ## 🤪 IRC Meta
 ### [@apple-fritter](https://github.com/apple-fritter)'s IRC Repositories:
 
 ---
 
 #### WeeChat
+- [weechat.driftwood](https://github.com/apple-fritter/weechat.driftwood): Natively log WeeChat messages in the driftwood standard. (Python.)
 - [weechat.ban-evasion-detection](https://github.com/apple-fritter/weechat.ban-evasion-detection): Detect and prevent ban evasion. (Python)
 - [weechat.typo-aggregator](https://github.com/apple-fritter/weechat.typo-aggregator): Record misspelled words in a TSV (tab-separated values) file. (Python)
 - [weechat.whois-aggregator](https://github.com/apple-fritter/weechat.whois-aggregator): Aggregate whois data in a rolling CSV file. (Python)
